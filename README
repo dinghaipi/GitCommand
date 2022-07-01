@@ -1,0 +1,9 @@
+1. 首先先在Github上新增一個repository
+2. 在本地端輸入：mkdir (想要的路徑名稱)
+3. git init
+4. touch README.md
+5. git add README.md
+6. git commit -m "first commit"
+7. git branch -M main
+8. git remote add origin (該repository的url).git
+9. git push -u origin main
